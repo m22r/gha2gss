@@ -1,6 +1,6 @@
 module github.com/m22r/gha2gss
 
-go 1.18
+go 1.19
 
 require (
 	github.com/google/go-github/v48 v48.1.0

@@ -6,5 +6,6 @@
   ],
   "schedule": [
     "every weekend"
-  ]
+  ],
+  "commitMessagePrefix": "chore(renovate): "
 }

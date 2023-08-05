@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/google/go-github/v48 v48.2.0
 	github.com/google/go-github/v50 v50.2.0
-	github.com/google/go-github/v51 v51.0.0
+	github.com/google/go-github/v53 v53.2.0
 	golang.org/x/oauth2 v0.11.0
 	google.golang.org/api v0.126.0
 )

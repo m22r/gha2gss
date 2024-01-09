@@ -3,7 +3,6 @@ module github.com/m22r/gha2gss
 go 1.19
 
 require (
-	github.com/google/go-github/v48 v48.2.0
 	github.com/google/go-github/v57 v57.0.0
 	golang.org/x/oauth2 v0.16.0
 	google.golang.org/api v0.155.0

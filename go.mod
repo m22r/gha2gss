@@ -2,7 +2,7 @@ module github.com/m22r/gha2gss
 
 go 1.21
 
-toolchain go1.22.3
+toolchain go1.22.4
 
 require (
 	github.com/google/go-github/v48 v48.2.0

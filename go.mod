@@ -7,7 +7,6 @@ toolchain go1.23.4
 require (
 	github.com/google/go-github/v48 v48.2.0
 	github.com/google/go-github/v68 v68.0.0
-	github.com/google/go-github/v68 v68.0.0
 	golang.org/x/oauth2 v0.25.0
 	google.golang.org/api v0.214.0
 )

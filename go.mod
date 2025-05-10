@@ -8,7 +8,7 @@ require (
 	github.com/google/go-github/v48 v48.2.0
 	github.com/google/go-github/v71 v71.0.0
 	golang.org/x/oauth2 v0.30.0
-	google.golang.org/api v0.231.0
+	google.golang.org/api v0.232.0
 )
 
 require (
@@ -38,7 +38,7 @@ require (
 	golang.org/x/text v0.24.0 // indirect
 	google.golang.org/appengine v1.6.8 // indirect
 	google.golang.org/genproto v0.0.0-20241118233622-e639e219e697 // indirect
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20250425173222-7b384671a197 // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20250428153025-10db94c68c34 // indirect
 	google.golang.org/grpc v1.72.0 // indirect
 	google.golang.org/protobuf v1.36.6 // indirect
 )

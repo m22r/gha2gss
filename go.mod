@@ -9,7 +9,7 @@ require (
 	github.com/google/go-github/v73 v73.0.0
 	github.com/google/go-github/v73 v73.0.0
 	golang.org/x/oauth2 v0.30.0
-	google.golang.org/api v0.240.0
+	google.golang.org/api v0.241.0
 )
 
 require (

@@ -8,7 +8,7 @@ require (
 	github.com/google/go-github/v48 v48.2.0
 	github.com/google/go-github/v91 v91.0.0
 	github.com/google/go-github/v91 v91.0.0
-	golang.org/x/oauth2 v0.36.0
+	golang.org/x/oauth2 v0.37.0
 	google.golang.org/api v0.297.0
 )
 
